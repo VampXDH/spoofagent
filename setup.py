@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='useragent-generator',
-    version='0.1.0',
+    name='spoofagent',
+    version='1.0.0',
     packages=find_packages(),
     description='A simple library to generate fake user agents.',
     long_description=open('README.md').read(),
